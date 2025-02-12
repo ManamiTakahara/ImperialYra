@@ -6,18 +6,21 @@ using System.Threading.Tasks;
 
 namespace ImperialYra
 {
+    //基本クラス
     internal class YearNumber
     {
-        //基本クラス
+        private string gou;
         private int year1;
         private int year2;
+        public string Gou { get; set; }
         public int Year1 { get; set; }
         public int Year2 { get; set; }
 
-        public YearNumber(int year1, int year2)
+        public YearNumber(string gou, int year1, int year2)
         {
-            this.year1 = year1;
-            this.year2 = year2;
+            Gou = gou;
+            Year1 = year1;
+            Year2 = year2;
         }
     }
 }
