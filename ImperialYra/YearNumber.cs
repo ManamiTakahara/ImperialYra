@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -21,17 +22,6 @@ namespace ImperialYra
             Gou = gou;
             Year1 = year1;
             Year2 = year2;
-        }
-
-        public void YearCount(int year1, int year2)
-        {
-            var year = 1;
-            while (year <= year1)
-            {
-                var yearCount = year + year2;
-                Console.WriteLine($"yearCount");
-                year += 1;
-            }
         }
     }
 }

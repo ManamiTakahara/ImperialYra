@@ -16,6 +16,13 @@ namespace ImperialYra
             years.Add(new YearNumber("昭和", 64, 1925));
             years.Add(new YearNumber("平成", 31, 1988));
             years.Add(new YearNumber("令和", 7, 2018));
+            var year = 1;
+            while (year <= years[1])
+            {
+                var yearCount = year + years[2];
+                Console.WriteLine($"");
+                year += 1;
+            }
         }  
     }
 }
