@@ -22,5 +22,16 @@ namespace ImperialYra
             Year1 = year1;
             Year2 = year2;
         }
+
+        public void YearCount(int year1, int year2)
+        {
+            var year = 1;
+            while (year <= year1)
+            {
+                var yearCount = year + year2;
+                Console.WriteLine($"yearCount");
+                year += 1;
+            }
+        }
     }
 }
