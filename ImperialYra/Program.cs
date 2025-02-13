@@ -10,6 +10,7 @@ namespace ImperialYra
     {
         static void Main(string[] args)
         {
+            //年号のデータ
             var years = new List<YearNumber>();
             years.Add(new YearNumber("明治", 45, 1867));
             years.Add(new YearNumber("大正", 15, 1911));
@@ -17,9 +18,10 @@ namespace ImperialYra
             years.Add(new YearNumber("平成", 31, 1988));
             years.Add(new YearNumber("令和", 7, 2018));
             
+            //YearCounterの実行
             foreach (YearNumber year in years)
             {
-                year.YearCount(year.Gou,year.Year1,year.Year2);
+                year.YearCount(year.Gou, year.Year1, year.Year2);
             }
         }  
     }

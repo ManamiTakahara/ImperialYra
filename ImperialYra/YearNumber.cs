@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ImperialYra
 {
-    //基本クラス
+    //年号クラス
     internal class YearNumber
     {
         private string gou;
@@ -24,6 +24,7 @@ namespace ImperialYra
             Year2 = year2;
         }
 
+        //年号と西暦を全て出力
         public void YearCount(string gou, int year1, int year2)
         {
             var year = 1;
