@@ -10,11 +10,26 @@ using System.Windows.Forms;
 
 namespace ImperialYra2
 {
-    public partial class Form1 : Form
+    /// <summary>
+    /// メインフォームの処理を管理
+    /// </summary>
+    public partial class ImperialYraForm : Form
     {
-        public Form1()
+        private YearNumber YearNumber;
+        public ImperialYraForm()
         {
             InitializeComponent();
+           
+        }
+
+        private void searchButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void resetButton_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
