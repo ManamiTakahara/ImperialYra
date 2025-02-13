@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImperialYra", "ImperialYra\ImperialYra.csproj", "{222FC6DC-0D96-4980-ADA1-E42AD7A78C02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImperialYra2", "ImperialYra2\ImperialYra2.csproj", "{AC13BA35-1341-4138-8871-7769FB0558AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{222FC6DC-0D96-4980-ADA1-E42AD7A78C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{222FC6DC-0D96-4980-ADA1-E42AD7A78C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{222FC6DC-0D96-4980-ADA1-E42AD7A78C02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC13BA35-1341-4138-8871-7769FB0558AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC13BA35-1341-4138-8871-7769FB0558AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC13BA35-1341-4138-8871-7769FB0558AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC13BA35-1341-4138-8871-7769FB0558AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
