@@ -24,12 +24,13 @@ namespace ImperialYra2
 
         private void searchButton_Click(object sender, EventArgs e)
         {
-
+            textBox1.Text = 
         }
 
         private void resetButton_Click(object sender, EventArgs e)
         {
-
+            westernLabel.Text = "西暦が表示されます";
+            inperiaLabel.Text = "年号が表示されます";
         }
     }
 }
