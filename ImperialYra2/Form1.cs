@@ -19,12 +19,19 @@ namespace ImperialYra2
         public ImperialYraForm()
         {
             InitializeComponent();
-           
+            //年号のデータ
+            var years = new List<YearNumber>();
+            years.Add(new YearNumber("明治", 45, 1867));
+            years.Add(new YearNumber("大正", 15, 1911));
+            years.Add(new YearNumber("昭和", 64, 1925));
+            years.Add(new YearNumber("平成", 31, 1988));
+            years.Add(new YearNumber("令和", 7, 2018));
+
         }
 
         private void searchButton_Click(object sender, EventArgs e)
         {
-            textBox1.Text = 
+            textBox1.Text =
         }
 
         private void resetButton_Click(object sender, EventArgs e)
