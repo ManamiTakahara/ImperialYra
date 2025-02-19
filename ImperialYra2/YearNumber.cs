@@ -52,9 +52,9 @@ namespace ImperialYra2
         { 
             Year3 = year3;
         }
-        public void YearCount2(string gou, int year1, int year2)
+        public void YearCount2(string gou, int year1, int year2, int year3)
         {
-            var year = (int)year2;
+            var year = year2;
             if (year == year3)
             {
                 YearNumber.YearCount();
