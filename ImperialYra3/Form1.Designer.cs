@@ -30,7 +30,7 @@
         {
             this.searchButton = new System.Windows.Forms.Button();
             this.resetButton = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.yearText = new System.Windows.Forms.TextBox();
             this.westernLabel = new System.Windows.Forms.Label();
             this.inperiaLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
@@ -55,21 +55,21 @@
             this.resetButton.UseVisualStyleBackColor = true;
             this.resetButton.Click += new System.EventHandler(this.resetButton_Click);
             // 
-            // textBox1
+            // yearText
             // 
-            this.textBox1.Location = new System.Drawing.Point(41, 50);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(250, 25);
-            this.textBox1.TabIndex = 2;
+            this.yearText.Location = new System.Drawing.Point(41, 50);
+            this.yearText.Name = "yearText";
+            this.yearText.Size = new System.Drawing.Size(250, 25);
+            this.yearText.TabIndex = 2;
             // 
             // westernLabel
             // 
             this.westernLabel.AutoSize = true;
             this.westernLabel.Location = new System.Drawing.Point(38, 144);
             this.westernLabel.Name = "westernLabel";
-            this.westernLabel.Size = new System.Drawing.Size(152, 18);
+            this.westernLabel.Size = new System.Drawing.Size(242, 36);
             this.westernLabel.TabIndex = 3;
-            this.westernLabel.Text = "西暦が表示されます";
+            this.westernLabel.Text = "1869年以降の数字を\r\nテキストボックスに入力してください";
             // 
             // inperiaLabel
             // 
@@ -87,7 +87,7 @@
             this.ClientSize = new System.Drawing.Size(599, 298);
             this.Controls.Add(this.inperiaLabel);
             this.Controls.Add(this.westernLabel);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.yearText);
             this.Controls.Add(this.resetButton);
             this.Controls.Add(this.searchButton);
             this.Name = "Form1";
@@ -101,7 +101,7 @@
 
         private System.Windows.Forms.Button searchButton;
         private System.Windows.Forms.Button resetButton;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox yearText;
         private System.Windows.Forms.Label westernLabel;
         private System.Windows.Forms.Label inperiaLabel;
     }
