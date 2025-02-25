@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace ImperialYra2
 {
@@ -16,8 +17,8 @@ namespace ImperialYra2
     public partial class ImperialYraForm : Form
     {
         
-        private YearNumber YearNumber2;
-        public ImperialYraForm(int year3)
+        private YearNumber YearNumber;
+        public ImperialYraForm()
         {
             InitializeComponent();
             //年号のデータ
@@ -28,12 +29,20 @@ namespace ImperialYra2
             years.Add(new YearNumber("平成", 31, 1988));
             years.Add(new YearNumber("令和", 7, 2018));
 
+            var sw = new StreamWriter("C:\\Itest.txt");
+            YearNumber.YearCount(YearNumber.Gou, YearNumber.Year1, YearNumber.Year2);
+            sw.Close();
         }
 
         private void searchButton_Click(object sender, EventArgs e)
-        {
-            YearNumber2.Year3 = textBox1.Text.Length;
-            YearNumber2.YearCount2(YearNumber2.Gou,YearNumber2.Year1,YearNumber2.Year2,YearNumber2.Year3);
+        {   
+            textBox1.Text = string.Empty;
+            foreach (var line in textBox1.Lines) 
+            { 
+                westernLabel.Text = $"{textBox1.Text}年";
+                inperiaLabel.Text = $"{} {}年";
+
+            }
 
         }
 

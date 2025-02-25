@@ -34,7 +34,7 @@ namespace ImperialYra2
             while (year <= year1)
             { 
                 var yearCount = year + year2;
-                Console.WriteLine($"{gou} {year}年 {yearCount}年");
+                Console.WriteLine($"{yearCount} {gou} {year}");
                 year += 1;
             }
             Console.WriteLine();
@@ -45,11 +45,11 @@ namespace ImperialYra2
             throw new NotImplementedException();
         }
     }
-    public class YearNumber : YearNumber
+    public class YearNumber2 : YearNumber
     {
         private int year3;
         public int Year3 { get; set; }
-        public YearNumber(string gou, int year1, int year2, int year3) : base(gou,year1,year2)
+        public YearNumber2(string gou, int year1, int year2, int year3) : base(gou,year1,year2)
         { 
             Year3 = year3;
         }
