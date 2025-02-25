@@ -29,7 +29,7 @@ namespace ImperialYra2
             years.Add(new YearNumber("平成", 31, 1988));
             years.Add(new YearNumber("令和", 7, 2018));
 
-            var sw = new StreamWriter("C:\\Itest.txt");
+            var sw = new StreamWriter(@"C:\\Itest.txt");
             YearNumber.YearCount(YearNumber.Gou, YearNumber.Year1, YearNumber.Year2);
             sw.Close();
         }
@@ -37,7 +37,8 @@ namespace ImperialYra2
         private void searchButton_Click(object sender, EventArgs e)
         {   
             textBox1.Text = string.Empty;
-            foreach (var line in textBox1.Lines) 
+            var lines = File.ReadAllLines(@"C:\\Itest.txt");
+            foreach (var line in lines) 
             { 
                 westernLabel.Text = $"{textBox1.Text}年";
                 inperiaLabel.Text = $"{} {}年";
