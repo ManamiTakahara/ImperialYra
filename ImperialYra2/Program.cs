@@ -16,7 +16,7 @@ namespace ImperialYra2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ImperialYraForm());
+            Application.Run(new Form());
         }
     }
 }

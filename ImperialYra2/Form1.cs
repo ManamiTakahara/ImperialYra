@@ -16,17 +16,17 @@ namespace ImperialYra2
     public partial class ImperialYraForm : Form
     {
         
-        private YearNumber2 YearNumber2;
+        private YearNumber YearNumber2;
         public ImperialYraForm(int year3)
         {
             InitializeComponent();
             //年号のデータ
-            var years = new List<YearNumber2>();
-            years.Add(new YearNumber2("明治", 45, 1867, year3));
-            years.Add(new YearNumber2("大正", 15, 1911, year3));
-            years.Add(new YearNumber2("昭和", 64, 1925, year3));
-            years.Add(new YearNumber2("平成", 31, 1988, year3));
-            years.Add(new YearNumber2("令和", 7, 2018, year3));
+            var years = new List<YearNumber>();
+            years.Add(new YearNumber("明治", 45, 1867));
+            years.Add(new YearNumber("大正", 15, 1911));
+            years.Add(new YearNumber("昭和", 64, 1925));
+            years.Add(new YearNumber("平成", 31, 1988));
+            years.Add(new YearNumber("令和", 7, 2018));
 
         }
 

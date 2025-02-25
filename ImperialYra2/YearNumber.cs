@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace ImperialYra2
 {
@@ -31,7 +32,7 @@ namespace ImperialYra2
         {
             var year = 1;
             while (year <= year1)
-            {
+            { 
                 var yearCount = year + year2;
                 Console.WriteLine($"{gou} {year}年 {yearCount}年");
                 year += 1;
@@ -44,11 +45,11 @@ namespace ImperialYra2
             throw new NotImplementedException();
         }
     }
-    public class YearNumber2 : YearNumber
+    public class YearNumber : YearNumber
     {
         private int year3;
         public int Year3 { get; set; }
-        public YearNumber2(string gou, int year1, int year2, int year3) : base(gou,year1,year2)
+        public YearNumber(string gou, int year1, int year2, int year3) : base(gou,year1,year2)
         { 
             Year3 = year3;
         }
