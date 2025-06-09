@@ -1,0 +1,1278 @@
+﻿[
+    {
+        "Gou": "大化",
+        "Lengeth": 6,
+        "startYear": 645
+    },
+    {
+        "Gou": "白雉",
+        "Lengeth": 5,
+        "startYear": 650
+    },
+    {
+        "Gou": "(斉明天皇)",
+        "Lengeth": 9,
+        "startYear": 654
+    },
+    {
+        "Gou": "(天智天皇)",
+        "Lengeth": 11,
+        "startYear": 662
+    },
+    {
+        "Gou": "(弘文天皇)",
+        "Lengeth": 1,
+        "startYear": 672
+    },
+    {
+        "Gou": "(天武天皇)",
+        "Lengeth": 15,
+        "startYear": 672
+    },
+    {
+        "Gou": "朱鳥",
+        "Lengeth": 1,
+        "startYear": 686
+    },
+    {
+        "Gou": "(持統天皇)",
+        "Lengeth": 11,
+        "startYear": 686
+    },
+    {
+        "Gou": "(文武天皇)",
+        "Lengeth": 5,
+        "startYear": 696
+    },
+    {
+        "Gou": "大宝",
+        "Lengeth": 4,
+        "startYear": 701
+    },
+    {
+        "Gou": "慶雲",
+        "Lengeth": 5,
+        "startYear": 704
+    },
+    {
+        "Gou": "和銅",
+        "Lengeth": 8,
+        "startYear": 708
+    },
+    {
+        "Gou": "霊亀",
+        "Lengeth": 3,
+        "startYear": 715
+    },
+    {
+        "Gou": "養老",
+        "Lengeth": 8,
+        "startYear": 717
+    },
+    {
+        "Gou": "神亀",
+        "Lengeth": 6,
+        "startYear": 724
+    },
+    {
+        "Gou": "天平",
+        "Lengeth": 21,
+        "startYear": 729
+    },
+    {
+        "Gou": "天平感宝",
+        "Lengeth": 1,
+        "startYear": 749
+    },
+    {
+        "Gou": "天平勝宝",
+        "Lengeth": 9,
+        "startYear": 749
+    },
+    {
+        "Gou": "天平宝字",
+        "Lengeth": 9,
+        "startYear": 757
+    },
+    {
+        "Gou": "天平神護",
+        "Lengeth": 3,
+        "startYear": 765
+    },
+    {
+        "Gou": "神護景雲",
+        "Lengeth": 4,
+        "startYear": 767
+    },
+    {
+        "Gou": "宝亀",
+        "Lengeth": 12,
+        "startYear": 770
+    },
+    {
+        "Gou": "天応",
+        "Lengeth": 2,
+        "startYear": 781
+    },
+    {
+        "Gou": "延暦",
+        "Lengeth": 25,
+        "startYear": 782
+    },
+    {
+        "Gou": "大同",
+        "Lengeth": 5,
+        "startYear": 810
+    },
+    {
+        "Gou": "弘仁",
+        "Lengeth": 15,
+        "startYear": 810
+    },
+    {
+        "Gou": "天長",
+        "Lengeth": 11,
+        "startYear": 824
+    },
+    {
+        "Gou": "承和",
+        "Lengeth": 15,
+        "startYear": 834
+    },
+    {
+        "Gou": "嘉祥",
+        "Lengeth": 4,
+        "startYear": 848
+    },
+    {
+        "Gou": "仁寿",
+        "Lengeth": 4,
+        "startYear": 851
+    },
+    {
+        "Gou": "斉衡",
+        "Lengeth": 4,
+        "startYear": 854
+    },
+    {
+        "Gou": "天安",
+        "Lengeth": 3,
+        "startYear": 857
+    },
+    {
+        "Gou": "貞観",
+        "Lengeth": 19,
+        "startYear": 859
+    },
+    {
+        "Gou": "元慶",
+        "Lengeth": 9,
+        "startYear": 877
+    },
+    {
+        "Gou": "仁和",
+        "Lengeth": 5,
+        "startYear": 885
+    },
+    {
+        "Gou": "寛平",
+        "Lengeth": 10,
+        "startYear": 889
+    },
+    {
+        "Gou": "昌泰",
+        "Lengeth": 4,
+        "startYear": 898
+    },
+    {
+        "Gou": "延喜",
+        "Lengeth": 23,
+        "startYear": 901
+    },
+    {
+        "Gou": "延長",
+        "Lengeth": 9,
+        "startYear": 923
+    },
+    {
+        "Gou": "承平",
+        "Lengeth": 8,
+        "startYear": 931
+    },
+    {
+        "Gou": "天慶",
+        "Lengeth": 10,
+        "startYear": 938
+    },
+    {
+        "Gou": "天暦",
+        "Lengeth": 11,
+        "startYear": 947
+    },
+    {
+        "Gou": "天徳",
+        "Lengeth": 5,
+        "startYear": 957
+    },
+    {
+        "Gou": "応和",
+        "Lengeth": 4,
+        "startYear": 961
+    },
+    {
+        "Gou": "康保",
+        "Lengeth": 5,
+        "startYear": 964
+    },
+    {
+        "Gou": "安和",
+        "Lengeth": 3,
+        "startYear": 968
+    },
+    {
+        "Gou": "天禄",
+        "Lengeth": 4,
+        "startYear": 970
+    },
+    {
+        "Gou": "天延",
+        "Lengeth": 3,
+        "startYear": 974
+    },
+    {
+        "Gou": "貞元",
+        "Lengeth": 3,
+        "startYear": 976
+    },
+    {
+        "Gou": "天元",
+        "Lengeth": 6,
+        "startYear": 978
+    },
+    {
+        "Gou": "永観",
+        "Lengeth": 3,
+        "startYear": 983
+    },
+    {
+        "Gou": "寛和",
+        "Lengeth": 3,
+        "startYear": 985
+    },
+    {
+        "Gou": "永延",
+        "Lengeth": 3,
+        "startYear": 987
+    },
+    {
+        "Gou": "永祚",
+        "Lengeth": 2,
+        "startYear": 989
+    },
+    {
+        "Gou": "正暦",
+        "Lengeth": 6,
+        "startYear": 990
+    },
+    {
+        "Gou": "長徳",
+        "Lengeth": 5,
+        "startYear": 995
+    },
+    {
+        "Gou": "長保",
+        "Lengeth": 6,
+        "startYear": 999
+    },
+    {
+        "Gou": "寛弘",
+        "Lengeth": 9,
+        "startYear": 1004
+    },
+    {
+        "Gou": "長和",
+        "Lengeth": 6,
+        "startYear": 1013
+    },
+    {
+        "Gou": "寛仁",
+        "Lengeth": 5,
+        "startYear": 1017
+    },
+    {
+        "Gou": "治安",
+        "Lengeth": 4,
+        "startYear": 1021
+    },
+    {
+        "Gou": "万寿",
+        "Lengeth": 5,
+        "startYear": 1024
+    },
+    {
+        "Gou": "長元",
+        "Lengeth": 10,
+        "startYear": 1028
+    },
+    {
+        "Gou": "長暦",
+        "Lengeth": 4,
+        "startYear": 1037
+    },
+    {
+        "Gou": "長久",
+        "Lengeth": 5,
+        "startYear": 1040
+    },
+    {
+        "Gou": "寛徳",
+        "Lengeth": 3,
+        "startYear": 1044
+    },
+    {
+        "Gou": "永承",
+        "Lengeth": 8,
+        "startYear": 1046
+    },
+    {
+        "Gou": "天喜",
+        "Lengeth": 6,
+        "startYear": 1053
+    },
+    {
+        "Gou": "康平",
+        "Lengeth": 8,
+        "startYear": 1058
+    },
+    {
+        "Gou": "治暦",
+        "Lengeth": 5,
+        "startYear": 1065
+    },
+    {
+        "Gou": "延久",
+        "Lengeth": 6,
+        "startYear": 1069
+    },
+    {
+        "Gou": "承保",
+        "Lengeth": 4,
+        "startYear": 1074
+    },
+    {
+        "Gou": "承暦",
+        "Lengeth": 5,
+        "startYear": 1077
+    },
+    {
+        "Gou": "永保",
+        "Lengeth": 4,
+        "startYear": 1081
+    },
+    {
+        "Gou": "応徳",
+        "Lengeth": 4,
+        "startYear": 1084
+    },
+    {
+        "Gou": "寛治",
+        "Lengeth": 8,
+        "startYear": 1087
+    },
+    {
+        "Gou": "嘉保",
+        "Lengeth": 3,
+        "startYear": 1095
+    },
+    {
+        "Gou": "永長",
+        "Lengeth": 1,
+        "startYear": 1097
+    },
+    {
+        "Gou": "承徳",
+        "Lengeth": 3,
+        "startYear": 1097
+    },
+    {
+        "Gou": "康和",
+        "Lengeth": 6,
+        "startYear": 1099
+    },
+    {
+        "Gou": "長治",
+        "Lengeth": 3,
+        "startYear": 1104
+    },
+    {
+        "Gou": "嘉承",
+        "Lengeth": 3,
+        "startYear": 1106
+    },
+    {
+        "Gou": "天仁",
+        "Lengeth": 3,
+        "startYear": 1108
+    },
+    {
+        "Gou": "天永",
+        "Lengeth": 4,
+        "startYear": 1110
+    },
+    {
+        "Gou": "永久",
+        "Lengeth": 6,
+        "startYear": 1113
+    },
+    {
+        "Gou": "元永",
+        "Lengeth": 3,
+        "startYear": 1118
+    },
+    {
+        "Gou": "保安",
+        "Lengeth": 5,
+        "startYear": 1120
+    },
+    {
+        "Gou": "天治",
+        "Lengeth": 3,
+        "startYear": 1124
+    },
+    {
+        "Gou": "大治",
+        "Lengeth": 6,
+        "startYear": 1126
+    },
+    {
+        "Gou": "天承",
+        "Lengeth": 2,
+        "startYear": 1131
+    },
+    {
+        "Gou": "長承",
+        "Lengeth": 4,
+        "startYear": 1132
+    },
+    {
+        "Gou": "保延",
+        "Lengeth": 7,
+        "startYear": 1135
+    },
+    {
+        "Gou": "永治",
+        "Lengeth": 2,
+        "startYear": 1141
+    },
+    {
+        "Gou": "康治",
+        "Lengeth": 3,
+        "startYear": 1142
+    },
+    {
+        "Gou": "天養",
+        "Lengeth": 2,
+        "startYear": 1144
+    },
+    {
+        "Gou": "久安",
+        "Lengeth": 7,
+        "startYear": 1145
+    },
+    {
+        "Gou": "仁平",
+        "Lengeth": 4,
+        "startYear": 1151
+    },
+    {
+        "Gou": "久寿",
+        "Lengeth": 3,
+        "startYear": 1154
+    },
+    {
+        "Gou": "保元",
+        "Lengeth": 4,
+        "startYear": 1156
+    },
+    {
+        "Gou": "平治",
+        "Lengeth": 2,
+        "startYear": 1159
+    },
+    {
+        "Gou": "永暦",
+        "Lengeth": 2,
+        "startYear": 1160
+    },
+    {
+        "Gou": "応保",
+        "Lengeth": 3,
+        "startYear": 1161
+    },
+    {
+        "Gou": "長寛",
+        "Lengeth": 3,
+        "startYear": 1163
+    },
+    {
+        "Gou": "永万",
+        "Lengeth": 2,
+        "startYear": 1165
+    },
+    {
+        "Gou": "仁安",
+        "Lengeth": 4,
+        "startYear": 1166
+    },
+    {
+        "Gou": "嘉応",
+        "Lengeth": 3,
+        "startYear": 1169
+    },
+    {
+        "Gou": "承安",
+        "Lengeth": 5,
+        "startYear": 1171
+    },
+    {
+        "Gou": "安元",
+        "Lengeth": 3,
+        "startYear": 1175
+    },
+    {
+        "Gou": "治承",
+        "Lengeth": 5,
+        "startYear": 1177
+    },
+    {
+        "Gou": "養和",
+        "Lengeth": 2,
+        "startYear": 1181
+    },
+    {
+        "Gou": "寿永",
+        "Lengeth": 3,
+        "startYear": 1182
+    },
+    {
+        "Gou": "元暦",
+        "Lengeth": 2,
+        "startYear": 1184
+    },
+    {
+        "Gou": "文治",
+        "Lengeth": 6,
+        "startYear": 1185
+    },
+    {
+        "Gou": "建久",
+        "Lengeth": 10,
+        "startYear": 1190
+    },
+    {
+        "Gou": "正治",
+        "Lengeth": 3,
+        "startYear": 1119
+    },
+    {
+        "Gou": "建仁",
+        "Lengeth": 4,
+        "startYear": 1201
+    },
+    {
+        "Gou": "元久",
+        "Lengeth": 3,
+        "startYear": 1204
+    },
+    {
+        "Gou": "建永",
+        "Lengeth": 2,
+        "startYear": 1206
+    },
+    {
+        "Gou": "承元",
+        "Lengeth": 5,
+        "startYear": 1207
+    },
+    {
+        "Gou": "建暦",
+        "Lengeth": 3,
+        "startYear": 1211
+    },
+    {
+        "Gou": "建保",
+        "Lengeth": 7,
+        "startYear": 1214
+    },
+    {
+        "Gou": "承久",
+        "Lengeth": 4,
+        "startYear": 1219
+    },
+    {
+        "Gou": "貞応",
+        "Lengeth": 3,
+        "startYear": 1222
+    },
+    {
+        "Gou": "元仁",
+        "Lengeth": 2,
+        "startYear": 1224
+    },
+    {
+        "Gou": "嘉禄",
+        "Lengeth": 3,
+        "startYear": 1225
+    },
+    {
+        "Gou": "安貞",
+        "Lengeth": 3,
+        "startYear": 1228
+    },
+    {
+        "Gou": "寛喜",
+        "Lengeth": 4,
+        "startYear": 1229
+    },
+    {
+        "Gou": "貞永",
+        "Lengeth": 2,
+        "startYear": 1232
+    },
+    {
+        "Gou": "天福",
+        "Lengeth": 2,
+        "startYear": 1233
+    },
+    {
+        "Gou": "文暦",
+        "Lengeth": 2,
+        "startYear": 1234
+    },
+    {
+        "Gou": "嘉禎",
+        "Lengeth": 4,
+        "startYear": 1235
+    },
+    {
+        "Gou": "暦仁",
+        "Lengeth": 2,
+        "startYear": 1238
+    },
+    {
+        "Gou": "延応",
+        "Lengeth": 2,
+        "startYear": 1239
+    },
+    {
+        "Gou": "仁治",
+        "Lengeth": 4,
+        "startYear": 1240
+    },
+    {
+        "Gou": "寛元",
+        "Lengeth": 5,
+        "startYear": 1243
+    },
+    {
+        "Gou": "宝治",
+        "Lengeth": 3,
+        "startYear": 1240
+    },
+    {
+        "Gou": "建長",
+        "Lengeth": 8,
+        "startYear": 1249
+    },
+    {
+        "Gou": "正嘉",
+        "Lengeth": 3,
+        "startYear": 1257
+    },
+    {
+        "Gou": "正元",
+        "Lengeth": 2,
+        "startYear": 1259
+    },
+    {
+        "Gou": "文応",
+        "Lengeth": 2,
+        "startYear": 1260
+    },
+    {
+        "Gou": "弘長",
+        "Lengeth": 4,
+        "startYear": 1261
+    },
+    {
+        "Gou": "文永",
+        "Lengeth": 12,
+        "startYear": 1264
+    },
+    {
+        "Gou": "健治",
+        "Lengeth": 4,
+        "startYear": 1275
+    },
+    {
+        "Gou": "弘安",
+        "Lengeth": 11,
+        "startYear": 1278
+    },
+    {
+        "Gou": "正応",
+        "Lengeth": 6,
+        "startYear": 1288
+    },
+    {
+        "Gou": "永仁",
+        "Lengeth": 7,
+        "startYear": 1293
+    },
+    {
+        "Gou": "正安",
+        "Lengeth": 4,
+        "startYear": 1299
+    },
+    {
+        "Gou": "乾元",
+        "Lengeth": 2,
+        "startYear": 1302
+    },
+    {
+        "Gou": "嘉元",
+        "Lengeth": 4,
+        "startYear": 1303
+    },
+    {
+        "Gou": "徳治",
+        "Lengeth": 3,
+        "startYear": 1307
+    },
+    {
+        "Gou": "延慶",
+        "Lengeth": 4,
+        "startYear": 1308
+    },
+    {
+        "Gou": "応長",
+        "Lengeth": 2,
+        "startYear": 1311
+    },
+    {
+        "Gou": "正和",
+        "Lengeth": 6,
+        "startYear": 1312
+    },
+    {
+        "Gou": "文保",
+        "Lengeth": 3,
+        "startYear": 1317
+    },
+    {
+        "Gou": "元応",
+        "Lengeth": 3,
+        "startYear": 1319
+    },
+    {
+        "Gou": "元亨",
+        "Lengeth": 4,
+        "startYear": 1321
+    },
+    {
+        "Gou": "正中",
+        "Lengeth": 3,
+        "startYear": 1324
+    },
+    {
+        "Gou": "嘉暦",
+        "Lengeth": 4,
+        "startYear": 1326
+    },
+    {
+        "Gou": "元徳(大覚)",
+        "Lengeth": 3,
+        "startYear": 1329
+    },
+    {
+        "Gou": "元徳(持明)",
+        "Lengeth": 4,
+        "startYear": 1329
+    },
+    {
+        "Gou": "元弘(大覚)",
+        "Lengeth": 4,
+        "startYear": 1331
+    },
+    {
+        "Gou": "正慶(持明)",
+        "Lengeth": 2,
+        "startYear": 1332
+    },
+    {
+        "Gou": "建武(南朝)",
+        "Lengeth": 3,
+        "startYear": 1334
+    },
+    {
+        "Gou": "建武(北朝)",
+        "Lengeth": 5,
+        "startYear": 1334
+    },
+    {
+        "Gou": "延元(南朝)",
+        "Lengeth": 5,
+        "startYear": 1336
+    },
+    {
+        "Gou": "暦応(北朝)",
+        "Lengeth": 5,
+        "startYear": 1338
+    },
+    {
+        "Gou": "興国(南朝)",
+        "Lengeth": 7,
+        "startYear": 1340
+    },
+    {
+        "Gou": "康永(北朝)",
+        "Lengeth": 4,
+        "startYear": 1342
+    },
+    {
+        "Gou": "貞和(北朝)",
+        "Lengeth": 6,
+        "startYear": 1345
+    },
+    {
+        "Gou": "正平(南朝)",
+        "Lengeth": 25,
+        "startYear": 1347
+    },
+    {
+        "Gou": "観応(北朝)",
+        "Lengeth": 3,
+        "startYear": 1350
+    },
+    {
+        "Gou": "文和(北朝)",
+        "Lengeth": 5,
+        "startYear": 1352
+    },
+    {
+        "Gou": "延文(北朝)",
+        "Lengeth": 6,
+        "startYear": 1356
+    },
+    {
+        "Gou": "康安(北朝)",
+        "Lengeth": 2,
+        "startYear": 1361
+    },
+    {
+        "Gou": "貞治(北朝)",
+        "Lengeth": 7,
+        "startYear": 1362
+    },
+    {
+        "Gou": "応安(北朝)",
+        "Lengeth": 8,
+        "startYear": 1368
+    },
+    {
+        "Gou": "健徳(南朝)",
+        "Lengeth": 3,
+        "startYear": 1370
+    },
+    {
+        "Gou": "文中(南朝)",
+        "Lengeth": 4,
+        "startYear": 1372
+    },
+    {
+        "Gou": "天授(南朝)",
+        "Lengeth": 7,
+        "startYear": 1375
+    },
+    {
+        "Gou": "永和(北朝)",
+        "Lengeth": 5,
+        "startYear": 1375
+    },
+    {
+        "Gou": "康暦(北朝)",
+        "Lengeth": 3,
+        "startYear": 1379
+    },
+    {
+        "Gou": "弘和(南朝)",
+        "Lengeth": 4,
+        "startYear": 1381
+    },
+    {
+        "Gou": "永徳(北朝)",
+        "Lengeth": 4,
+        "startYear": 1381
+    },
+    {
+        "Gou": "元中(南朝)",
+        "Lengeth": 9,
+        "startYear": 1384
+    },
+    {
+        "Gou": "至徳(北朝)",
+        "Lengeth": 4,
+        "startYear": 1384
+    },
+    {
+        "Gou": "嘉慶(北朝)",
+        "Lengeth": 3,
+        "startYear": 1387
+    },
+    {
+        "Gou": "康応(北朝)",
+        "Lengeth": 2,
+        "startYear": 1389
+    },
+    {
+        "Gou": "明徳",
+        "Lengeth": 5,
+        "startYear": 1390
+    },
+    {
+        "Gou": "応永",
+        "Lengeth": 35,
+        "startYear": 1394
+    },
+    {
+        "Gou": "正長",
+        "Lengeth": 2,
+        "startYear": 1428
+    },
+    {
+        "Gou": "永享",
+        "Lengeth": 13,
+        "startYear": 1429
+    },
+    {
+        "Gou": "嘉吉",
+        "Lengeth": 4,
+        "startYear": 1441
+    },
+    {
+        "Gou": "文安",
+        "Lengeth": 6,
+        "startYear": 1444
+    },
+    {
+        "Gou": "宝徳",
+        "Lengeth": 4,
+        "startYear": 1449
+    },
+    {
+        "Gou": "享徳",
+        "Lengeth": 4,
+        "startYear": 1452
+    },
+    {
+        "Gou": "康正",
+        "Lengeth": 3,
+        "startYear": 1455
+    },
+    {
+        "Gou": "長禄",
+        "Lengeth": 4,
+        "startYear": 1457
+
+    },
+    {
+        "Gou": "寛正",
+        "Lengeth": 7,
+        "startYear": 1461
+    },
+    {
+        "Gou": "文正",
+        "Lengeth": 2,
+        "startYear": 1466
+    },
+    {
+        "Gou": "応仁",
+        "Lengeth": 3,
+        "startYear": 1467
+    },
+    {
+        "Gou": "文明",
+        "Lengeth": 19,
+        "startYear": 1469
+    },
+    {
+        "Gou": "長享",
+        "Lengeth": 3,
+        "startYear": 1487
+    },
+    {
+        "Gou": "延徳",
+        "Lengeth": 4,
+        "startYear": 1489
+    },
+    {
+        "Gou": "明応",
+        "Lengeth": 10,
+        "startYear": 1501
+    },
+    {
+        "Gou": "文亀",
+        "Lengeth": 4,
+        "startYear": 1501
+    },
+    {
+        "Gou": "永正",
+        "Lengeth": 18,
+        "startYear": 1504
+    },
+    {
+        "Gou": "大永",
+        "Lengeth": 8,
+        "startYear": 1521
+    },
+    {
+        "Gou": "享禄",
+        "Lengeth": 5,
+        "startYear": 1528
+    },
+    {
+        "Gou": "天文",
+        "Lengeth": 24,
+        "startYear": 1532
+    },
+    {
+        "Gou": "弘治",
+        "Lengeth": 4,
+        "startYear": 1555
+    },
+    {
+        "Gou": "永禄",
+        "Lengeth": 13,
+        "startYear": 1558
+    },
+    {
+        "Gou": "元亀",
+        "Lengeth": 4,
+        "startYear": 1573
+    },
+    {
+        "Gou": "天正",
+        "Lengeth": 20,
+        "startYear": 1573
+    },
+    {
+        "Gou": "文禄",
+        "Lengeth": 5,
+        "startYear": 1593
+    },
+    {
+        "Gou": "慶長",
+        "Lengeth": 20,
+        "startYear": 1596
+    },
+    {
+        "Gou": "元和",
+        "Lengeth": 10,
+        "startYear": 1615
+    },
+    {
+        "Gou": "寛永",
+        "Lengeth": 21,
+        "startYear": 1624
+    },
+    {
+        "Gou": "正保",
+        "Lengeth": 5,
+        "startYear": 1645
+    },
+    {
+        "Gou": "慶安",
+        "Lengeth": 5,
+        "startYear": 1648
+    },
+    {
+        "Gou": "承応",
+        "Lengeth": 4,
+        "startYear": 1648
+    },
+    {
+        "Gou": "明暦",
+        "Lengeth": 4,
+        "startYear": 1655
+    },
+    {
+        "Gou": "万治",
+        "Lengeth": 4,
+        "startYear": 1658
+    },
+    {
+        "Gou": "寛文",
+        "Lengeth": 13,
+        "startYear": 1661
+    },
+    {
+        "Gou": "延宝",
+        "Lengeth": 9,
+        "startYear": 1673
+    },
+    {
+        "Gou": "天和",
+        "Lengeth": 4,
+        "startYear": 1681
+    },
+    {
+        "Gou": "貞享",
+        "Lengeth": 5,
+        "startYear": 1684
+    },
+    {
+        "Gou": "元禄",
+        "Lengeth": 17,
+        "startYear": 1688
+    },
+    {
+        "Gou": "宝永",
+        "Lengeth": 8,
+        "startYear": 1704
+    },
+    {
+        "Gou": "正徳",
+        "Lengeth": 6,
+        "startYear": 1711
+    },
+    {
+        "Gou": "享保",
+        "Lengeth": 21,
+        "startYear": 1716
+    },
+    {
+        "Gou": "元文",
+        "Lengeth": 6,
+        "startYear": 1736
+    },
+    {
+        "Gou": "寛保",
+        "Lengeth": 4,
+        "startYear": 1741
+    },
+    {
+        "Gou": "延享",
+        "Lengeth": 5,
+        "startYear": 1744
+    },
+    {
+        "Gou": "寛延",
+        "Lengeth": 4,
+        "startYear": 1748
+    },
+    {
+        "Gou": "宝暦",
+        "Lengeth": 14,
+        "startYear": 1751
+    },
+    {
+        "Gou": "明和",
+        "Lengeth": 9,
+        "startYear": 1764
+    },
+    {
+        "Gou": "安永",
+        "Lengeth": 10,
+        "startYear": 1772
+    },
+    {
+        "Gou": "天明",
+        "Lengeth": 9,
+        "startYear": 1781
+    },
+    {
+        "Gou": "寛政",
+        "Lengeth": 13,
+        "startYear": 1789
+    },
+    {
+        "Gou": "享和",
+        "Lengeth": 4,
+        "startYear": 1801
+    },
+    {
+        "Gou": "文化",
+        "Lengeth": 15,
+        "startYear": 1804
+    },
+    {
+        "Gou": "文政",
+        "Lengeth": 13,
+        "startYear": 1818
+    },
+    {
+        "Gou": "天保",
+        "Lengeth": 15,
+        "startYear": 1831
+    },
+    {
+        "Gou": "弘化",
+        "Lengeth": 5,
+        "startYear": 1845
+    },
+    {
+        "Gou": "嘉永",
+        "Lengeth": 7,
+        "startYear": 1848
+    },
+    {
+        "Gou": "安政",
+        "Lengeth": 7,
+        "startYear": 1855
+    },
+    {
+        "Gou": "万延",
+        "Lengeth": 2,
+        "startYear": 1860
+    },
+    {
+        "Gou": "文久",
+        "Lengeth": 4,
+        "startYear": 1861
+    },
+    {
+        "Gou": "元治",
+        "Lengeth": 2,
+        "startYear": 1864
+    },
+    {
+        "Gou": "慶応",
+        "Lengeth": 4,
+        "startYear": 1865
+    },
+    {
+        "Gou": "明治",
+        "Lengeth": 45,
+        "startYear": 1868
+    },
+    {
+        "Gou": "大正",
+        "Lengeth": 15,
+        "startYear": 1912
+    },
+    {
+        "Gou": "昭和",
+        "Lengeth": 64,
+        "startYear": 1926
+    },
+    {
+        "Gou": "平成",
+        "Lengeth": 31,
+        "startYear": 1989
+    },
+    {
+        "Gou": "令和",
+        "Lengeth": 999,
+        "startYear": 2019
+    }
+]

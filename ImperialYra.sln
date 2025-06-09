@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImperialYra", "ImperialYra\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImperialYra2", "ImperialYra2\ImperialYra2.csproj", "{AC13BA35-1341-4138-8871-7769FB0558AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImperialYra3", "ImperialYra3\ImperialYra3.csproj", "{6148D18E-B6B7-4269-BD8D-6DDA9B56E66A}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{AC13BA35-1341-4138-8871-7769FB0558AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC13BA35-1341-4138-8871-7769FB0558AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC13BA35-1341-4138-8871-7769FB0558AD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6148D18E-B6B7-4269-BD8D-6DDA9B56E66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6148D18E-B6B7-4269-BD8D-6DDA9B56E66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6148D18E-B6B7-4269-BD8D-6DDA9B56E66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6148D18E-B6B7-4269-BD8D-6DDA9B56E66A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
