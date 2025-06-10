@@ -67,6 +67,7 @@ namespace ImperialYra2
                 }
 
                 inperiaLabel.Text = string.Join("\n", formattedLines);
+                westernLabel.Text = $"西暦{year}年";
             }
             else
             {
